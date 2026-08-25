@@ -4,19 +4,19 @@
 
 Me chamo Pedro Vasconcelos, sou estudante de Informática no COTEMIG e tenho interesse em desenvolvimento de software. Atualmente, venho aprimorando meus conhecimentos em programação, desenvolvimento web e banco de dados, buscando transformar o que aprendo em projetos práticos.
 
-Tenho experiência com desenvolvimento utilizando ** JavaScript, HTML e CSS**, além de conhecimentos em **C#, SQL e desenvolvimento de APIs**. Gosto de aprender coisas novas, resolver problemas e transformar ideias em projetos funcionais.
+Tenho experiência com desenvolvimento utilizando **Python, JavaScript, HTML e CSS**, além de conhecimentos em **C#, SQL e desenvolvimento de APIs**. Gosto de aprender coisas novas, resolver problemas e transformar ideias em projetos funcionais.
 
 Atualmente, estou em busca de oportunidades para adquirir experiência profissional na área de tecnologia e continuar evoluindo como desenvolvedor. 🚀
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO">
+    <a href="https://github.com/PedroDVasconcelos">
         <img 
             alt="GitHub followers" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroDVasconcelos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories">
+    <a href="https://github.com/PedroDVasconcelos?tab=repositories">
         <img 
             alt="GitHub repositories" 
             title="Meus repositórios" 
@@ -29,86 +29,23 @@ Atualmente, estou em busca de oportunidades para adquirir experiência profissio
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
- align="left" 
- alt="HTML5"
- title="HTML5" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<img 
- align="left" 
- alt="CSS3"
- title="CSS3" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img 
- align="left" 
- alt="JavaScript"
- title="JavaScript" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img 
- align="left" 
- alt="Python"
- title="Python" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img 
- align="left" 
- alt="C#"
- title="C#" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<img 
- align="left" 
- alt="Django"
- title="Django" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
-<img 
- align="left" 
- alt="SQL"
- title="SQL" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<img 
- align="left" 
- alt="Git"
- title="Git" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<img 
- align="left" 
- alt="GitHub"
- title="GitHub" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <br/>
 <br/>
@@ -121,6 +58,8 @@ Atualmente, estou em busca de oportunidades para adquirir experiência profissio
 * 🔢 **Gerador de Números Aleatórios** — Projeto desenvolvido para praticar lógica de programação e JavaScript.
 * 🔌 **API em JavaScript** — Desenvolvimento de uma API utilizando Node.js.
 * 🛒 **Peeds** — Projeto acadêmico de uma loja virtual de sementes.
+* 📚 **Site de Currículo** — Projeto web desenvolvido para praticar estruturação e estilização de páginas.
+
 ---
 
 ### 📚 Atualmente estudando
@@ -134,23 +73,3 @@ Atualmente, estou em busca de oportunidades para adquirir experiência profissio
 * 💻 Boas práticas de desenvolvimento
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
- align="left" 
- alt="Linguagens mais utilizadas" 
- height="180" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-/>
-
-</p>
