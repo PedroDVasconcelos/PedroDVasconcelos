@@ -56,13 +56,10 @@ Atualmente, estou em busca de oportunidades para adquirir experiência profissio
 * 🔢 **Gerador de Números Aleatórios** — Projeto desenvolvido para praticar lógica de programação e JavaScript.
 * 🔌 **API em JavaScript** — Desenvolvimento de uma API utilizando Node.js.
 * 🛒 **Peeds** — Projeto acadêmico de uma loja virtual de sementes.
-* 📚 **Site de Currículo** — Projeto web desenvolvido para praticar estruturação e estilização de páginas.
-
 ---
 
 ### 📚 Atualmente estudando
 
-* 🐍 Python
 * ⚡ JavaScript
 * 🌐 Desenvolvimento Web
 * 🗄️ Banco de Dados e SQL
