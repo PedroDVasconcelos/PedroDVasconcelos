@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Vasconcelos
 
-**`Estudante de Desenvolvimento de Software`**
+**`Estudante de programação`**
 
 Me chamo Pedro Vasconcelos, sou estudante de Informática no COTEMIG e tenho interesse em desenvolvimento de software. Atualmente, venho aprimorando meus conhecimentos em programação, desenvolvimento web e banco de dados, buscando transformar o que aprendo em projetos práticos.
 
