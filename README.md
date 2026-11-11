@@ -4,7 +4,7 @@
 
 Me chamo Pedro Vasconcelos, sou estudante de Informática no COTEMIG e tenho interesse em desenvolvimento de software. Atualmente, venho aprimorando meus conhecimentos em programação, desenvolvimento web e banco de dados, buscando transformar o que aprendo em projetos práticos.
 
-Tenho experiência com desenvolvimento utilizando **Python, JavaScript, HTML e CSS**, além de conhecimentos em **C#, SQL e desenvolvimento de APIs**. Gosto de aprender coisas novas, resolver problemas e transformar ideias em projetos funcionais.
+Tenho experiência com desenvolvimento utilizando **JavaScript, HTML e CSS**, além de conhecimentos em **C#, SQL e desenvolvimento de APIs**. Gosto de aprender coisas novas, resolver problemas e transformar ideias em projetos funcionais.
 
 Atualmente, estou em busca de oportunidades para adquirir experiência profissional na área de tecnologia e continuar evoluindo como desenvolvedor. 🚀
 
